@@ -1,4 +1,4 @@
-'.source.arduino':
+'.source.arduino, .source.ino':
   'Analog Read':
     'prefix': 'analogRead'
     'body': 'analogRead(${1:pin});$2'
